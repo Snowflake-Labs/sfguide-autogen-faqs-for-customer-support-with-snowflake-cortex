@@ -1,0 +1,1 @@
+# sfguides-autogen-faqs-for-customer-support-with-snowflake-cortex
